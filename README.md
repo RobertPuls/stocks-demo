@@ -1,5 +1,7 @@
 ## Setup
 
+Run `npm i` to install packages
+
 I used a CORS proxy so you will need to be granted permission to use it in order to use this app.
 
 Go to https://cors-anywhere.herokuapp.com/ and request temporary access in order to use CORS proxy. Access should be instantly granted.
